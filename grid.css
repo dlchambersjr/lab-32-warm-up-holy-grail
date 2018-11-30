@@ -1,0 +1,38 @@
+section.grid {
+  color: #000;
+  height:600px;
+  display:grid;
+ 
+}
+
+header.grid  {
+   background-color:#4766bd;
+ 
+
+}
+
+h1.grid  {
+   font-size: 2vw;
+    padding: auto;
+}
+
+main.grid  {
+  display:grid;
+  grid-template-columns: 20% auto 20%; */
+}
+
+.gridleft {
+  background-color: lightseagreen;
+}
+
+.gridcenter {
+  background-color: lightcoral;
+}
+
+.gridright {
+  background-color: #97df5d;
+}
+
+footer.grid {
+  background-color: #c052c0;
+}
